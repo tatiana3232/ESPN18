@@ -1,0 +1,297 @@
+#EXTM3U
+#EXTINF:-1,ESPN_1
+http://181.118.158.126:30000/play/tr028
+#EXTINF:-1,ESPN_2
+http://181.118.158.126:30000/play/tr029
+#EXTINF:-1,ESPN_3
+http://181.118.158.126:30000/play/tr030
+#EXTINF:-1,ESPN_EXTRA
+http://181.118.158.126:30000/play/tr031
+#EXTINF:-1,HDMI2-TVC-D_FOX_SPORTS_1
+http://181.118.158.126:30000/play/tr038
+#EXTINF:-1,SD-ESPN1
+http://181.118.158.126:30000/play/tr081
+#EXTINF:-1,SD-ESPN2
+http://181.118.158.126:30000/play/tr082
+#EXTINF:-1,SD-ESPN3
+http://181.118.158.126:30000/play/tr083
+#EXTINF:-1,TyC Sports HD
+http://181.118.158.126:30000/play/a02e
+#EXTINF:-1,TyC_Sports_HD
+http://181.118.158.126:30000/play/tr0106
+#EXTINF:-1,Claro Sports HD
+http://181.115.69.117:8000/play/a0hn/index.m3u8
+#EXTINF:-1,Claro Sports 1 HD
+http://181.115.69.117:8000/play/a0kf/index.m3u8
+#EXTINF:-1,Claro Sports 2 HD
+http://181.115.69.117:8000/play/a0kg/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://181.115.69.117:8000/play/a002/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://181.115.69.117:8000/play/a006/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://181.115.69.117:8000/play/a06f/index.m3u8
+#EXTINF:-1,ESPN 3
+http://181.115.69.117:8000/play/a0kn/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://181.115.69.117:8000/play/a008/index.m3u8
+#EXTINF:-1,ESPN 5
+http://181.115.69.117:8000/play/a003/index.m3u8
+#EXTINF:-1,ESPN 5 HD
+http://181.115.69.117:8000/play/a004/index.m3u8
+#EXTINF:-1,ESPN 6
+http://181.115.69.117:8000/play/a001/index.m3u8
+#EXTINF:-1,ESPN 6 HD
+http://181.115.69.117:8000/play/a00e/index.m3u8
+#EXTINF:-1,ESPN DEPORTES USA CDN
+http://181.115.69.117:8000/play/a0l4/index.m3u8
+#EXTINF:-1,ESPN HD
+http://181.115.69.117:8000/play/a005/index.m3u8
+#EXTINF:-1,ESPN SUR CDN
+http://181.115.69.117:8000/play/a0l6/index.m3u8
+#EXTINF:-1,ESPN2
+http://181.115.69.117:8000/play/a09p/index.m3u8
+#EXTINF:-1,ESPN 2 Latin
+http://179.1.87.75:8098/play/a0ew/index.m3u8
+#EXTINF:-1,ESPN 3
+http://179.1.87.75:8098/play/a0hn/index.m3u8
+#EXTINF:-1,ESPN 4
+http://179.1.87.75:8098/play/a0fu/index.m3u8
+#EXTINF:-1,ESPN CO
+http://179.1.87.75:8098/play/a0ge/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://179.1.87.75:8098/play/a0fg/index.m3u8
+#EXTINF:-1,Fox Sports 3
+http://179.1.87.75:8098/play/a0fh/index.m3u8
+#EXTINF:-1,ESPN
+http://179.1.68.244:7676/play/a074
+#EXTINF:-1,ESPN 2
+http://179.1.68.244:7676/play/a07a
+#EXTINF:-1,ESPN 2 Latin
+http://179.1.68.244:7676/play/a075
+#EXTINF:-1,ESPN 3
+http://179.1.68.244:7676/play/a04b
+#EXTINF:-1,ESPN 4
+http://179.1.68.244:7676/play/a064
+#EXTINF:-1,ESPN 6
+http://179.1.68.244:7676/play/a085
+#EXTINF:-1,ESPN 7
+http://179.1.68.244:7676/play/a084
+#EXTINF:-1,ESPN COLOMBIA
+http://179.1.68.244:7676/play/a07c
+#EXTINF:-1,ESPN 2 HD
+http://179.1.201.133:54986/play/a03g/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://179.1.201.133:54986/play/a03h/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://179.1.201.133:54986/play/a01z/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://179.1.201.133:54986/play/a033/index.m3u8
+#EXTINF:-1,ESPN HD
+http://179.1.201.133:54986/play/a07f/index.m3u8
+#EXTINF:-1,ESPN
+http://177.53.155.236:8000/play/a03e/index.m3u8
+#EXTINF:-1,ESPN 2
+http://177.53.155.236:8000/play/a07i/index.m3u8
+#EXTINF:-1,ESPN 2 Latin
+http://177.53.155.236:8000/play/a03d/index.m3u8
+#EXTINF:-1,ESPN 3
+http://177.53.155.236:8000/play/a052/index.m3u8
+#EXTINF:-1,ESPN 4
+http://177.53.155.236:8000/play/a0bg/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://177.53.155.236:8000/play/a05j/index.m3u8
+#EXTINF:-1,ESPN HD
+http://177.53.155.236:8000/play/a00l/index.m3u8
+#EXTINF:-1,ESPN HD
+http://177.53.155.236:8000/play/a0b2/index.m3u8
+#EXTINF:-1,Fox Sports 1 HD
+http://177.53.155.236:8000/play/a06p/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://177.53.155.236:8000/play/a061/index.m3u8
+#EXTINF:-1,Fox Sports 3
+http://177.53.155.236:8000/play/a03m/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://177.234.247.66:8888/play/a00v/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://177.234.247.66:8888/play/a00t/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://177.234.247.66:8888/play/a01c/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://177.234.247.66:8888/play/a027/index.m3u8
+#EXTINF:-1,ESPN HD
+http://177.234.247.66:8888/play/a00k/index.m3u8
+#EXTINF:-1,ESPN HD
+http://177.234.247.66:8888/play/a01i/index.m3u8
+#EXTINF:-1,ESPN HD
+http://177.234.247.66:8888/play/a02o/index.m3u8
+#EXTINF:-1,Fox Sports 1 HD
+http://177.234.247.66:8888/play/a03a/index.m3u8
+#EXTINF:-1,Fox Sports 3 HD
+http://177.234.247.66:8888/play/a00u/index.m3u8
+#EXTINF:-1,ESPN +
+http://170.82.37.21:8000/play/a04g/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://170.82.37.21:8000/play/a00z/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://170.82.37.21:8000/play/a010/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://170.82.37.21:8000/play/a011/index.m3u8
+#EXTINF:-1,ESPN 5 HD
+http://170.82.37.21:8000/play/a04c/index.m3u8
+#EXTINF:-1,ESPN 6 HD
+http://170.82.37.21:8000/play/a04d/index.m3u8
+#EXTINF:-1,ESPN HD
+http://170.82.37.21:8000/play/a00y/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://170.81.241.222:5172/play/a012/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://170.81.241.222:5172/play/a011/index.m3u8
+#EXTINF:-1,ESPN 4HD
+http://170.81.241.222:5172/play/a01t/index.m3u8
+#EXTINF:-1,ESPN 5HD
+http://170.81.241.222:5172/play/a01h/index.m3u8
+#EXTINF:-1,ESPN 6HD
+http://170.81.241.222:5172/play/a02u/index.m3u8
+#EXTINF:-1,ESPN 7HD
+http://170.81.241.222:5172/play/a01i/index.m3u8
+#EXTINF:-1,ESPN HD
+http://170.81.241.222:5172/play/a01m/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://190.61.40.186:45000/play/a053
+#EXTINF:-1,ESPN 3 HD
+http://190.61.40.186:45000/play/a051
+#EXTINF:-1,ESPN 4
+http://190.61.40.186:45000/play/a06w
+#EXTINF:-1,ESPN CO
+http://190.61.40.186:45000/play/a072
+#EXTINF:-1,ESPN EXTRA HD
+http://190.61.40.186:45000/play/a01v
+#EXTINF:-1,ESPN HD
+http://190.61.40.186:45000/play/a01l
+#EXTINF:-1,FOX Sports 2 HD
+http://190.61.40.186:45000/play/a01g
+#EXTINF:-1,ESPN 2 HD
+http://190.60.40.37:12500/play/a00m/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://190.60.40.37:12500/play/a00q/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://190.60.40.37:12500/play/a012/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://190.60.40.37:12500/play/a019/index.m3u8
+#EXTINF:-1,ESPN HD
+http://190.60.40.37:12500/play/a096/index.m3u8
+#EXTINF:-1,ESPN HD1
+http://190.60.40.37:12500/play/a0ba/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://190.60.40.165:1010/play/a04a/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://190.60.40.165:1010/play/a00g/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://190.60.40.165:1010/play/a03x/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://190.60.40.165:1010/play/a018/index.m3u8
+#EXTINF:-1,ESPN HD
+http://190.60.40.165:1010/play/a08f/index.m3u8
+#EXTINF:-1,ESPN
+http://190.60.37.154:45000/play/a03i/index.m3u8
+#EXTINF:-1,ESPN 2
+http://190.60.37.154:45000/play/a039/index.m3u8
+#EXTINF:-1,ESPN 3
+http://190.60.37.154:45000/play/a04u/index.m3u8
+#EXTINF:-1,ESPN 4
+http://190.60.37.154:45000/play/a046/index.m3u8
+#EXTINF:-1,ESPN CO
+http://190.60.37.154:45000/play/a04f/index.m3u8
+#EXTINF:-1,ESPN
+http://190.60.33.245:4002/play/a0n6/index.m3u8
+#EXTINF:-1,ESPN 2
+http://190.60.33.245:4002/play/a0hd/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://190.60.33.245:4002/play/a0sz/index.m3u8
+#EXTINF:-1,ESPN 3
+http://190.60.33.245:4002/play/a0s2/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://190.60.33.245:4002/play/a0sa/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://190.60.33.245:4002/play/a0dg/index.m3u8
+#EXTINF:-1,ESPN 5HD
+http://190.60.33.245:4002/play/a0m3/index.m3u8
+#EXTINF:-1,ESPN 6
+http://190.60.33.245:4002/play/a0gw/index.m3u8
+#EXTINF:-1,ESPN 6HD
+http://190.60.33.245:4002/play/a0sb/index.m3u8
+#EXTINF:-1,ESPN 7 HD
+http://190.60.33.245:4002/play/a0dh/index.m3u8
+#EXTINF:-1,ESPN Extra
+http://190.60.33.245:4002/play/a0t6/index.m3u8
+#EXTINF:-1,ESPN HD
+http://190.60.33.245:4002/play/a0dm/index.m3u8
+#EXTINF:-1,ESPN HD
+http://190.60.33.245:4002/play/a0ex/index.m3u8
+#EXTINF:-1,ESPN HD
+http://190.60.33.245:4002/play/a0t3/index.m3u8
+#EXTINF:-1,ESPN2
+http://190.60.33.245:4002/play/a0n7/index.m3u8
+#EXTINF:-1,ESPN
+http://190.242.46.20:8000/play/a08n/index.m3u8
+#EXTINF:-1,ESPN 2eno3 237.2.1.21 10021
+http://190.242.46.20:8000/play/a08o/index.m3u8
+#EXTINF:-1,ESPN 3 HD 237.1.1.137 10137
+http://190.242.46.20:8000/play/a09k/index.m3u8
+#EXTINF:-1,ESPN 4
+http://190.242.46.20:8000/play/a0aa/index.m3u8
+#EXTINF:-1,ESPN 5
+http://190.242.46.20:8000/play/x02/index.m3u8
+#EXTINF:-1,ESPN 6
+http://190.242.46.20:8000/play/a066/index.m3u8
+#EXTINF:-1,ESPN 7
+http://190.242.46.20:8000/play/a077/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://190.217.114.91:8000/play/a00m/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://190.217.114.91:8000/play/a00n/index.m3u8
+#EXTINF:-1,ESPN 4
+http://190.217.114.91:8000/play/a00j/index.m3u8
+#EXTINF:-1,ESPN 5 HD
+http://190.217.114.91:8000/play/a02a/index.m3u8
+#EXTINF:-1,ESPN 6
+http://190.217.114.91:8000/play/a01s/index.m3u8
+#EXTINF:-1,ESPN 7
+http://190.217.114.91:8000/play/a00k/index.m3u8
+#EXTINF:-1,ESPN HD
+http://190.217.114.91:8000/play/a01q/index.m3u8
+#EXTINF:-1,Espn
+http://190.211.250.102:8000/play/a017
+#EXTINF:-1,Espn 2
+http://190.211.250.102:8000/play/a016
+#EXTINF:-1,Fox Sports
+http://190.211.250.102:8000/play/a00r
+#EXTINF:-1,Fox Sports 3
+http://190.211.250.102:8000/play/a00n
+#EXTINF:-1,4010 Fox Sports 1 HD
+http://190.2.215.202:34586/play/a084/index.m3u8
+#EXTINF:-1,5004 ESPN 2 HD
+http://190.2.215.202:34586/play/a04u/index.m3u8
+#EXTINF:-1,6004 ESPN 3 HD
+http://190.2.215.202:34586/play/a054/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://190.2.213.38:8000/play/a03p/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://190.2.213.38:8000/play/a03u/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://190.2.213.38:8000/play/a045/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://190.2.213.38:8000/play/a04c/index.m3u8
+#EXTINF:-1,ESPN HD
+http://190.2.213.38:8000/play/a06d/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://190.131.219.67:8000/play/a028/index.m3u8
+#EXTINF:-1,ESPN 4
+http://190.131.219.67:8000/play/a041/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://190.131.219.67:8000/play/a04d/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://190.131.219.67:8000/play/a09v/index.m3u8
+#EXTINF:-1,ESPN HD
+http://190.131.219.67:8000/play/a0aj/index.m3u8
